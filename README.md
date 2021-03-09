@@ -1,4 +1,4 @@
-# Hands On ML- Part 1, Ch.7 - Support Vector Machines
+# Hands On ML- Part 1, Ch.7 - Ensemble Learning And Random Forests
 
 These are notes, code and exercise solutions for chapter 7 from "Hands On Machine Learning" (2nd Edition) by Aurélien Géron
 <br>
